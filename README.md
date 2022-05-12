@@ -7,7 +7,7 @@ A tool to find logitech k380's MAC address. The address can be used for bluetoot
 	```bash
 	git clone git@github.com:CollieIsCute/find-k380-MAC-address.git
 	```
-2. run the `find_k380.sh` file, and you'll get the mac address.
+2. turn on bluetooth connecting mode, and execute the `find_k380.sh` file. You'll get the mac address.
 	```bash
 	cd find-k380-MAC-address
 	```
